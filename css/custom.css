@@ -1,5 +1,8 @@
 /* Shared
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+body{
+background-color:#000;
+}
 .button {
   border-radius: 100px;
 }
